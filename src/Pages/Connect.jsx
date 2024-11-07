@@ -12,8 +12,8 @@ const Connect = () => {
       <h1 className='text-lime-900'>Vetted solar technicians, instant connections</h1>
     </div>
     <div className='text-white text-5xl lg:w-[500px] w-[350px] pt-5'>
-    <h1>Connect with <t className='text-yellow-300'>skilled 
-    local solar workforce</t>  in 
+    <h1>Connect with <span className='text-yellow-300'>skilled 
+    local solar workforce</span>  in 
     record time!</h1>
     </div>
     <div className='text-white pt-5 text-xl md:w-[500px] w-[360px] '>
