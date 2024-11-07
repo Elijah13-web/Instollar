@@ -16,7 +16,7 @@ const Connect = () => {
     local solar workforce</t>  in 
     record time!</h1>
     </div>
-    <div className='text-white pt-5 text-xl md:w-[500px] w-[400px]'>
+    <div className='text-white pt-5 text-xl md:w-[500px] w-[360px] '>
       <h1>Match your solar projects with vetted and trained 
       freelancers closest to your project location.</h1>
     </div>
